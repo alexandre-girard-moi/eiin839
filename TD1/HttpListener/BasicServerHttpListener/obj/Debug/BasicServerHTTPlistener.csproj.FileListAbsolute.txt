@@ -25,3 +25,10 @@ C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServ
 C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csproj.CoreCompileInputs.cache
 C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.exe
 C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.pdb
+C:\Users\alexa\Documents\Cours_4A\s8\SOC\eiin839\TD1\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe.config
+C:\Users\alexa\Documents\Cours_4A\s8\SOC\eiin839\TD1\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe
+C:\Users\alexa\Documents\Cours_4A\s8\SOC\eiin839\TD1\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.pdb
+C:\Users\alexa\Documents\Cours_4A\s8\SOC\eiin839\TD1\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\Cours_4A\s8\SOC\eiin839\TD1\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\Cours_4A\s8\SOC\eiin839\TD1\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.exe
+C:\Users\alexa\Documents\Cours_4A\s8\SOC\eiin839\TD1\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.pdb
