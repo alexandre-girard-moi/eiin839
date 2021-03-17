@@ -6,7 +6,7 @@
   },
   "ExtendedData": {
     "inputs": [
-      "http://www.dneonline.com/calculator.asmx?wsdl"
+      "http://localhost:8733/Design_Time_Addresses/MathsLibrary/MathsOperations/mex?WSDL"
     ],
     "collectionTypes": [
       "System.Array",
