@@ -1,4 +1,5 @@
 ﻿using System;
+using ServiceReference1;
 
 namespace SOAP_WEB_SERVICE
 {
@@ -6,8 +7,9 @@ namespace SOAP_WEB_SERVICE
     {
         static void Main(string[] args)
         {
-            Calculator calculator = new Calculator();
-            Console.WriteLine("Hello World!");
+            MathsOperationsClient maths = new MathsOperationsClient();
+            int a = maths.AddAsync(1, 10).Result;
+            Console.WriteLine("Hello World! " +  a);
         }
     }
 }
